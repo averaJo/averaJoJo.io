@@ -1,0 +1,2 @@
+# averaJoJo.io
+personal blog
